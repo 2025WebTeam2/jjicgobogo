@@ -1,0 +1,83 @@
+image_name,keyword,confidence,detected_text,detected_logo,created_at
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T11:51:59.376Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T11:51:59.376Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T11:51:59.376Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T11:51:59.376Z
+mouse.jpg,Input device,0.85,,Logitech,2025-06-14T11:56:17.056Z
+mouse.jpg,Peripheral,0.76,,Logitech,2025-06-14T11:56:17.056Z
+mouse.jpg,Electrical cable,0.61,,Logitech,2025-06-14T11:56:17.056Z
+mouse.jpg,Computer hardware,0.57,,Logitech,2025-06-14T11:56:17.056Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Electronic device,0.95,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Technology,0.85,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Gadget,0.79,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Peripheral,0.79,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Electrical cable,0.72,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Input device,0.69,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Office supplies,0.66,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Computer hardware,0.6,UGREEN,,2025-06-14T12:08:11.978Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Office Equipment,0.55,UGREEN,,2025-06-14T12:08:11.978Z
+logo.png,Cartoon,0.81,,,2025-06-14T12:12:45.763Z
+logo.png,Animation,0.67,,,2025-06-14T12:12:45.763Z
+logo.png,Animated cartoon,0.52,,,2025-06-14T12:12:45.763Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T12:22:07.034Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T12:22:07.034Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T12:22:07.034Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T12:22:07.034Z
+mouse.jpg,Input device,0.84,,Logitech,2025-06-14T12:29:23.895Z
+mouse.jpg,Peripheral,0.76,,Logitech,2025-06-14T12:29:23.895Z
+mouse.jpg,Electrical cable,0.62,,Logitech,2025-06-14T12:29:23.895Z
+mouse.jpg,Computer hardware,0.57,,Logitech,2025-06-14T12:29:23.895Z
+mouse.jpg,Carbon fibers,0.5,,Logitech,2025-06-14T12:29:23.895Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T12:32:35.005Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T12:32:35.005Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T12:32:35.005Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T12:32:35.005Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Electronic device,0.95,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Technology,0.85,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Gadget,0.79,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Peripheral,0.79,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Electrical cable,0.72,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Input device,0.69,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Office supplies,0.66,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Computer hardware,0.6,UGREEN,,2025-06-14T12:32:43.779Z
+SE-0f338280-23d2-4f8b-a7e7-3be6b334b01b.png,Office Equipment,0.55,UGREEN,,2025-06-14T12:32:43.779Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T12:53:54.225Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T12:53:54.225Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T12:53:54.225Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T12:53:54.225Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T13:19:50.332Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T13:19:50.332Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T13:19:50.332Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T13:19:50.332Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T13:20:14.128Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T13:20:14.128Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T13:20:14.128Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T13:20:14.128Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T13:22:23.579Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T13:22:23.579Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T13:22:23.579Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T13:22:23.579Z
+mouse.jpg,Input device,0.84,,Logitech,2025-06-14T13:24:54.065Z
+mouse.jpg,Peripheral,0.76,,Logitech,2025-06-14T13:24:54.065Z
+mouse.jpg,Electrical cable,0.61,,Logitech,2025-06-14T13:24:54.065Z
+mouse.jpg,Computer hardware,0.57,,Logitech,2025-06-14T13:24:54.065Z
+mouse.jpg,Carbon fibers,0.5,,Logitech,2025-06-14T13:24:54.065Z
+logo.png,Cartoon,0.81,,,2025-06-14T13:27:59.011Z
+logo.png,Animation,0.68,,,2025-06-14T13:27:59.011Z
+logo.png,Animated cartoon,0.53,,,2025-06-14T13:27:59.011Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T13:30:25.822Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T13:30:25.822Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T13:30:25.822Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T13:30:25.822Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-14T13:31:08.822Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-14T13:31:08.822Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-14T13:31:08.822Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-14T13:31:08.822Z
+sample.jpg,Sleeve,0.98,ALL RIGHT,,2025-06-16T10:44:45.937Z
+sample.jpg,White,0.97,ALL RIGHT,,2025-06-16T10:44:45.937Z
+sample.jpg,Active Shirt,0.92,ALL RIGHT,,2025-06-16T10:44:45.937Z
+sample.jpg,Design,0.67,ALL RIGHT,,2025-06-16T10:44:45.937Z
+mouse.jpg,Input device,0.85,,Logitech,2025-06-16T10:45:17.243Z
+mouse.jpg,Peripheral,0.76,,Logitech,2025-06-16T10:45:17.243Z
+mouse.jpg,Electrical cable,0.61,,Logitech,2025-06-16T10:45:17.243Z
+mouse.jpg,Computer hardware,0.57,,Logitech,2025-06-16T10:45:17.243Z
